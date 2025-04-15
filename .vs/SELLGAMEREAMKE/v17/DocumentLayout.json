@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|c:\\users\\admin\\source\\repos\\sellgamereamke\\sellgamereamke\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|solutionrelative:sellgamereamke\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\sellgamereamke\\tkesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|solutionrelative:sellgamereamke\\tkesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\sellgamereamke\\tkend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|solutionrelative:sellgamereamke\\tkend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\sellgamereamke\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|solutionrelative:sellgamereamke\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|c:\\users\\admin\\source\\repos\\sellgamereamke\\sellgamereamke\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|solutionrelative:sellgamereamke\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|c:\\users\\admin\\source\\repos\\sellgamereamke\\sellgamereamke\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|solutionrelative:sellgamereamke\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\sellgamereamke\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|solutionrelative:sellgamereamke\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\sellgamereamke\\canhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|solutionrelative:sellgamereamke\\canhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\sellgamereamke\\thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB77DB4C-1A60-4B04-9F45-2A3F83F282D0}|SELLGAMEREAMKE\\SELLGAMEREAMKE.csproj|solutionrelative:sellgamereamke\\thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\DangNhap.cs",
+              "RelativeDocumentMoniker": "SELLGAMEREAMKE\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\DangNhap.cs [Design]",
+              "RelativeToolTip": "SELLGAMEREAMKE\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:59:25.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TKeSP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\TKeSP.cs",
+              "RelativeDocumentMoniker": "SELLGAMEREAMKE\\TKeSP.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\TKeSP.cs [Design]",
+              "RelativeToolTip": "SELLGAMEREAMKE\\TKeSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:58:29.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mainform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\Mainform.Designer.cs",
+              "RelativeDocumentMoniker": "SELLGAMEREAMKE\\Mainform.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\Mainform.Designer.cs",
+              "RelativeToolTip": "SELLGAMEREAMKE\\Mainform.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T05:42:34.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\TrangChu.cs",
+              "RelativeDocumentMoniker": "SELLGAMEREAMKE\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\TrangChu.cs [Design]",
+              "RelativeToolTip": "SELLGAMEREAMKE\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:57:16.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mainform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\Mainform.cs",
+              "RelativeDocumentMoniker": "SELLGAMEREAMKE\\Mainform.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\Mainform.cs [Design]",
+              "RelativeToolTip": "SELLGAMEREAMKE\\Mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:48:26.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TKeND.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\TKeND.cs",
+              "RelativeDocumentMoniker": "SELLGAMEREAMKE\\TKeND.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\TKeND.cs [Design]",
+              "RelativeToolTip": "SELLGAMEREAMKE\\TKeND.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T05:03:33.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CaNhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\CaNhan.cs",
+              "RelativeDocumentMoniker": "SELLGAMEREAMKE\\CaNhan.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\CaNhan.cs [Design]",
+              "RelativeToolTip": "SELLGAMEREAMKE\\CaNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T05:03:04.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThuVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\ThuVien.cs",
+              "RelativeDocumentMoniker": "SELLGAMEREAMKE\\ThuVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\ThuVien.cs [Design]",
+              "RelativeToolTip": "SELLGAMEREAMKE\\ThuVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T05:03:16.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mainform.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\Mainform.cs",
+              "RelativeDocumentMoniker": "SELLGAMEREAMKE\\Mainform.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SELLGAMEREAMKE\\SELLGAMEREAMKE\\Mainform.cs",
+              "RelativeToolTip": "SELLGAMEREAMKE\\Mainform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:25:08.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
